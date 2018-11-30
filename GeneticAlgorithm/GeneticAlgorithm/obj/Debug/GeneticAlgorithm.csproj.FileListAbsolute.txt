@@ -1,0 +1,68 @@
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\recep\Desktop\4. sınıf\esnek hesaplama\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.ViewGraphic.resources
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.ViewGraphic.resources
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithmNew\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.MainForm.resources
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.MainForm.resources
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.ViewGraphic.resources
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\EsnekHesaplama\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.MainForm.resources
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.ViewGraphic.resources
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\Tugay\Desktop\GeneticAlgorithm\Ödev\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Selection.resources
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.MainForm.resources
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Selection.resources
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.ViewGraphic.resources
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Tugay\Desktop\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.MainForm.resources
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.ViewGraphic.resources
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\recep\Downloads\Compressed\Proje_EH_GA\Proje_EH_GA\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
