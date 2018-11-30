@@ -1,19 +1,6 @@
-Grup Elemanları
-Tugay USLU  2014280033
-Recep AKSU  2013280005
-Hasan ÇABUK 2014280039
-
-Bütün ekip üyeleri TeamViewer aracıyla uygulama geliştirilirken
-bir arada bulunmuştur. Kodlayan kişi dönüşümlü olarak değişmiştir.
-Bütün ekip üyeleri uygulama geliştirme aşamasına katkıda bulunmuştur.
- 
-KAYNAKÇA
-Sequential Constructive Crossover (SCX) operatörü için yapılan araştırmada aşağıdaki link kaynak alınmıştır.
-Diğer operatorler ile ilgili bilgiler ders içindeki kaynaklardan sağlanmıştır.
-"http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.7771&rep=rep1&type=pdf"
-
-Çalıştırılacak bilgisayarın Ondalık simgesi '.' , Basamak gruplandırma simgesi ',' olarak ayarlanmalıdır.
-
-Okuldaki bilgisayarlarda çalıştırmayı denedik ancak crossover metodunda
-kullandığımız iç içe fonksiyon okuldaki bilgisayarda hata verdi,
-biz hatanın versiyon farklılığından kaynaklandığını düşünüyoruz.
+https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB9
+Simetrik Tsp iÃ§in geliÅŸtirilmiÅŸtir.
+C# dilinde kodlanmÄ±ÅŸtÄ±r.
+BirkaÃ§ farklÄ± crossover ve mutasyon yÃ¶ntemi iÃ§ermektedir.
+Ã‡alÄ±ÅŸtÄ±rÄ±lacak bilgisayarÄ±n OndalÄ±k simgesi '.' , Basamak gruplandÄ±rma simgesi ',' olarak ayarlanmalÄ±dÄ±r.
+BazÄ± program Ã§Ä±ktÄ±larÄ± ApplicationResults klasÃ¶rÃ¼nÃ¼n iÃ§erisindedir.
